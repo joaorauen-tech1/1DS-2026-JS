@@ -1,17 +1,6 @@
-let nome = "Thiago";
-
-if (nome == "thiago") {
-     console.log("Voce digitou o nome correto...")
-else
-     console.log("Voce digitou outra coisa...")
+//LAÇO DE REPETIÇÃO (POR TAMANHO DEFINIDO)//
+for(let i =0; i <10; i++){
+    console.log("loop de repetição de 10 vezes");
 }
 
-let idade = 18;
-
-if (idade <= 18) {
-    console.log("Voce é praticamente adulto...")
-}else if( idade < 18){
-    console.log("Voce ainda é de menor...")
-}else{
-    
-}
+//USANDO LAÇO DE REPETIÇÃO 
